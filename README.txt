@@ -9,7 +9,7 @@ https://github.com/SarryGeezOwO/CodexPad
 
 Note format (.txt file)
 > Last Modified 		      (Don't Modify)
-> Level of importance 		(Don't Modify)
+> Level of importance         (Don't Modify)
 > Is favorite 			      (Don't Modify)
 > Note content			      (Can be Modified)
 ** The notes can be found in the NoteStorage folder
