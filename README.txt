@@ -8,7 +8,8 @@ If you ever want to see the source code it is located in my github:
 https://github.com/SarryGeezOwO/CodexPad
 
 Note format (.txt file)
-> Last Modified 		(Don't Modify)
+> Last Modified 		      (Don't Modify)
 > Level of importance 		(Don't Modify)
-> Is favorite 			(Don't Modify)
-> Note content			(Can be Modified)
+> Is favorite 			      (Don't Modify)
+> Note content			      (Can be Modified)
+** The notes can be found in the NoteStorage folder
